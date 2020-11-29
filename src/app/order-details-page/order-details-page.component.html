@@ -1,0 +1,26 @@
+<div class="container order-summary">
+    <div class="row">
+        <h2>Order Details</h2>
+        <p class="logout">
+            <a href="#" class="btn btn-info btn-sm">
+                <span class="glyphicon glyphicon-log-out"></span> Log out
+            </a>
+        </p>
+    </div>
+    
+    <div class="row">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-body">
+                    <a href="#" class="card-link" routerLink="/orderSummary">See Less Details</a>
+                    <h4 class="card-title">Order No : {{orderDetails?.orderNo }}</h4>
+                    <p class="card-text">Customer Name : {{ orderDetails?.custName }} </p>
+                    <p class="card-text">Item Name : {{ orderDetails?.itemName }} </p>
+                    <p class="card-text">Price : {{ orderDetails?.price }}</p>
+                    <p class="card-text">Total Price : {{ orderDetails?.totalPrice}} </p>
+                    <p class="card-text">Delivery Address : {{ orderDetails.deliveryAddress }}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

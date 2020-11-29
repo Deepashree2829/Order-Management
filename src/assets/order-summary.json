@@ -1,0 +1,68 @@
+[
+    {
+        "orderNo": "1",
+        "custName": "Henry",
+        "noOfItemsOrdered": "1",
+        "totalAmountOfOrder": "1000",
+        "statusOfOrder": "Delivered",
+        "itemName": "Dosa",
+        "price": "50",
+        "totalPrice": "1000",
+        "deliveryAddress": "#1209 , 2nd main, 12th cross Electronic city Bangalore"
+    },
+    {
+        "orderNo": "2",
+        "custName": "Ram",
+        "noOfItemsOrdered": "2",
+        "totalAmountOfOrder": "900",
+        "statusOfOrder": "Delivered",
+        "itemName": "Idli",
+        "price": "400",
+        "totalPrice": "900",
+        "deliveryAddress": "#1234 , 2nd main, 17th cross Vijaynagar Bangalore"
+    },
+    {
+        "orderNo": "3",
+        "custName": "Raj",
+        "noOfItemsOrdered": "1",
+        "totalAmountOfOrder": "599",
+        "statusOfOrder": "Delivered",
+        "itemName": "Chicken",
+        "price": "599",
+        "totalPrice": "599",
+        "deliveryAddress": "#1224 , 4nd main, 11th cross Rajajinagar Bangalore"
+    },
+    {
+        "orderNo": "4",
+        "custName": "Pocker",
+        "noOfItemsOrdered": "3",
+        "totalAmountOfOrder": "1200",
+        "statusOfOrder": "Delivered",
+        "itemName": "Fried Rice",
+        "price": "100",
+        "totalPrice": "1200",
+        "deliveryAddress": "#1234 , 1st main, 19th cross Koramnagala Bangalore"
+    },
+    {
+        "orderNo": "5",
+        "custName": "Smith",
+        "noOfItemsOrdered": "3",
+        "totalAmountOfOrder": "50",
+        "statusOfOrder": "Delivered",
+        "itemName": "Friut Salad",
+        "price": "50",
+        "totalPrice": "50",
+        "deliveryAddress": "#1221 , 2nd main, 2nd cross BTM Layout Bangalore"
+    },
+    {
+        "orderNo": "6",
+        "custName": "John",
+        "noOfItemsOrdered": "4",
+        "totalAmountOfOrder": "200",
+        "statusOfOrder": "Delivered",
+        "itemName": "Khali Dosa",
+        "price": "30",
+        "totalPrice": "200",
+        "deliveryAddress": "#1211 ,5th main, 19th cross HSR Layout Bangalore"
+    }
+]
